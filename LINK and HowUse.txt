@@ -1,0 +1,6 @@
+First, run the file: LeBolsa3 to create an index file.
+	Next, Run the BuscaNIS to search a determined NIS in the index file and display the line on the original file
+Reduced File Link: https://drive.google.com/open?id=1U1uGuj49tI7YnqzvNsBY3clP4lk2i1f8
+
+File link: https://www.dropbox.com/sh/rq3qtyizpgjnr2c/AABpJefzKty6wxohtvkvWD-7a/bolsa?dl=0&preview=bolsa.csv&subfolder_nav_tracking=1
+PS: If you use this link, you'll need to change in the code "bolsa2.csv" to "bolsa.csv", or rename the file before run the code
